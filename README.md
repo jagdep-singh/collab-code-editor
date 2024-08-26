@@ -1,1 +1,1 @@
-# collab-txt-editor
+# collab-code-editor
